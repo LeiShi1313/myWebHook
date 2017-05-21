@@ -2,7 +2,7 @@ from flask import Flask, request
 import json
 
 HOST = '0.0.0.0'
-PORT - 9700
+PORT = 9700
 
 app = Flask(__name__)
 
